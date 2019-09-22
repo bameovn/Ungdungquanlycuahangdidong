@@ -12,6 +12,8 @@
 * Thêm, xóa, sửa , chi tiết sản phẩm nếu đã bán hết hoặc đang khuyến mãi
 * Tìm kiếm theo yêu cầu : `Ví Dụ : Khách hàng cần tìm kiếm Đồng Hồ hiệu Rolex thì nhập Đồng Hồ Rolex`
 * Danh mục : Tất cả các sản phẩm ( có bộ lọc các sản phẩm chi tiết , sắp xếp giá tiền, để thuận tiện cho `Người Mua` )
+## Bảo Vệ Ngươi Dùng :
+* Bên bán yêu cầu phải đóng Bảo Hiểm ( Cam kết là Sản Phẩm đúng như mô tả trên ứng dụng đã ghi ).
 
 ## Thành Viên Nhóm : 
 + Nguyễn Mạnh Hiếu - 17520479
