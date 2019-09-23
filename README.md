@@ -17,7 +17,7 @@
 * Thêm, xóa, sửa , chi tiết sản phẩm nếu đã bán hết hoặc đang khuyến mãi
 * Tìm kiếm theo yêu cầu : `Ví Dụ : Khách hàng cần tìm kiếm Đồng Hồ hiệu Rolex thì nhập Đồng Hồ Rolex`
 * Danh mục : Tất cả các sản phẩm ( có bộ lọc các sản phẩm chi tiết , sắp xếp giá tiền, để thuận tiện cho `Người Mua` )
-*Khi khách hàng cần tìm mua 1 sản phẩm nào đó , nếu cửa hàng hết thì phải liên hệ đến kho nếu còn thì giao lên cửa hàng để bán cho khách*
+* *Khi khách hàng cần tìm mua 1 sản phẩm nào đó , nếu cửa hàng hết thì phải liên hệ đến kho nếu còn thì giao lên cửa hàng để bán cho khách*
 ## Thành Viên Nhóm : 
 + Nguyễn Mạnh Hiếu - 17520479
 + Đặng Tấn Lực - 17520724
