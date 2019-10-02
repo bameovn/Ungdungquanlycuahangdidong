@@ -23,3 +23,5 @@
 + Đặng Tấn Lực - 17520724
 + Phạm Văn Hậu - 17520455
 ## Ngôn Ngữ dự kiến sẽ dùng  : C#, Sql server, Winforms
+# ROADMAP
+
