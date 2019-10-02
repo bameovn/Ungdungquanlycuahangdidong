@@ -24,4 +24,13 @@
 + Phạm Văn Hậu - 17520455
 ## Ngôn Ngữ dự kiến sẽ dùng  : C#, Sql server, Winforms
 # ROADMAP
-
+## Phân công việc
+|Tên  | Công Việc |
+|--------------|-------|
+| Đặng Tấn Lực | Chức năng Nhập + Xuất Sản Phẩm | 
+| Nguyễn Mạnh Hiếu| Chức năng Thông Tin Cá Nhân + Thông Tin Khách Hàng / Đối Tác | 
+| Hậu| Chức năng Báo Cáo Thống Kê | 
+1 . Bản thử nghiệm : 
+* Các tính năng đơn giản : Nhập ,Xuất, Lưu Thông tin sản phẩm,...
+2 . Bổ sung thêm : Thay đổi thông tin cá nhân ( đổi password, thay đổi SĐT )
+3 . ...
