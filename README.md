@@ -30,7 +30,10 @@
 | Đặng Tấn Lực | Chức năng Nhập + Xuất Sản Phẩm | 
 | Nguyễn Mạnh Hiếu| Chức năng Thông Tin Cá Nhân + Thông Tin Khách Hàng / Đối Tác | 
 | Hậu| Chức năng Báo Cáo Thống Kê | 
-1 . Bản thử nghiệm : 
-* Các tính năng đơn giản : Nhập ,Xuất, Lưu Thông tin sản phẩm,...
-2 . Bổ sung thêm : Thay đổi thông tin cá nhân ( đổi password, thay đổi SĐT )
-3 . ...
+--------------------------------------
+#### 1. Bản thử nghiệm : 
+- Các tính năng đơn giản : Nhập ,Xuất, Lưu Thông tin sản phẩm,...
+#### 2. Bảng thử nghiệm 2 : 
+- Thay đổi thông tin cá nhân ( đổi password, thay đổi SĐT )
+#### 3. Bảng chính thức : 
+- Test sự ổn định và chính xác của các chức năng
